@@ -12,6 +12,8 @@ streamlit = "*"
 seaborn = "*"
 matplotlib = "*"
 sklearn="*"
+keras="*"
+load_model="*"
 
 
 [requires]
